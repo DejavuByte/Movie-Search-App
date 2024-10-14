@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import SearchBar from './SearchBar';
+import SearchBar from './Components/SearchBar';
 
 const App = () => {
   const [movies, setMovies] = useState([]);
