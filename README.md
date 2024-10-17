@@ -1,11 +1,7 @@
-Here is the `README.md` file in proper markdown format:
 
-```markdown
 # 🎬 Movie Search App
 
 Welcome to the **Movie Search App**! 🎥🍿 This is a simple, beginner-friendly React app that lets you search for your favorite movies using the OMDB API. It's a fun project to help you learn React, API integration, and some Tailwind CSS for styling.
-
-![Movie Search App Preview](https://your-image-url-here.com) <!-- Placeholder for a screenshot of your app -->
 
 ## 🌟 Features
 
@@ -87,13 +83,13 @@ movie-search-app/
 │   ├── index.js            # Entry point of the React app
 │   └── index.css           # Tailwind CSS imports and custom styles
 │
-├── .env                 # Environment variables (like API key)
-├── .gitignore           # Files and directories to be ignored by Git
-├── README.md            # You are here! 😎
-└── package.json         # Project dependencies and scripts
+├── .env                   # Environment variables (like API key)
+├── .gitignore             # Files and directories to be ignored by Git
+├── README.md              # You are here! 😎
+└── package.json           # Project dependencies and scripts
 ```
 
-### Key Components:
+### Key Components
 
 - **`SearchBar.js`**: Handles user input for searching movies.
 - **`MovieList.js`**: Displays the results from the OMDB API.
@@ -115,7 +111,7 @@ We love contributions! Whether you’re fixing a bug, adding a feature, or impro
    ```
 3. **Create a New Branch**: 
    ```bash
-   git checkout -b feature-your-feature-name
+   git checkout -b feature/your-feature-name
    ```
 4. **Make Changes and Commit**:
    ```bash
@@ -124,7 +120,7 @@ We love contributions! Whether you’re fixing a bug, adding a feature, or impro
    ```
 5. **Push Your Branch**: 
    ```bash
-   git push origin feature-your-feature-name
+   git push origin feature/your-feature-name
    ```
 6. **Create a Pull Request**: Open GitHub, go to your forked repo, and click the "New Pull Request" button.
 
@@ -161,4 +157,3 @@ A big thank you to [OMDB API](https://www.omdbapi.com/) for providing the movie 
 ### 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
