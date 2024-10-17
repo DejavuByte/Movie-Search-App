@@ -154,6 +154,13 @@ A big thank you to [OMDB API](https://www.omdbapi.com/) for providing the movie 
 
 ---
 
+## Our Contributors:
+
+<a href="https://github.com/DejavuByte/Movie-Search-App/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DejavuByte/Movie-Search-App" />
+</a>
+
+
 ### 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
